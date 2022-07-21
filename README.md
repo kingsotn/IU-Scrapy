@@ -33,7 +33,7 @@ scrapy crawl iu
 
 
 ## Demo
-
+![](iu-scrape-demo.gif)
 
 
 <!-- USAGE EXAMPLES -->
