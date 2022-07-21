@@ -12,5 +12,6 @@ class IuScrapeItem(scrapy.Item):
     pass
 
 
+
 class ImageItem(scrapy.Item):
     pass
