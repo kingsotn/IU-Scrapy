@@ -1,5 +1,6 @@
 <!-- GETTING STARTED -->
 # IU Python Scraper!
+![](7535bc73b7f9220c980f3edacee9261e.gif)
 
 ### Introduction
 A script written in python using <a href="https://github.com/scrapy/scrapy">Scrapy</a> that downloads all images from http://iustudio.net/
