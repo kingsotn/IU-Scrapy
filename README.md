@@ -22,9 +22,9 @@ Follow the installation guide below if you want to mess around with the code. Ot
   scrapy crawl paris
   ```
 2. Clone the repo
-   ```sh
-   git clone https://github.com/kingsotn/IU-Scrapy.git
-   ```
+  ```sh
+  git clone https://github.com/kingsotn/IU-Scrapy.git
+  ```
 3. Run inside the directory
   ```sh
   scrapy crawl iu
