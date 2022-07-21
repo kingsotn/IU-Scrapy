@@ -15,21 +15,20 @@ Follow the installation guide below if you want to mess around with the code. Ot
 ### Installation
 
 1. For dependecies, I recommend downloading with conda see documentation https://docs.scrapy.org/en/latest/intro/install.html. The following code explains how to create a virtual environment and install dependecies to run this spider
-```
-python3 -m venv venv
-source venv/bin/activate
-pip3 install -r requirements.txt
-scrapy crawl paris
-```
-
+  ```
+  python3 -m venv venv
+  source venv/bin/activate
+  pip3 install -r requirements.txt
+  scrapy crawl paris
+  ```
 2. Clone the repo
    ```sh
    git clone https://github.com/kingsotn/IU-Scrapy.git
    ```
 3. Run inside the directory
-```sh
-scrapy crawl iu
-```
+  ```sh
+  scrapy crawl iu
+  ```
 
 
 ## Demo
